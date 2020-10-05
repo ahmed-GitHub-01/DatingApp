@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DYRFGf6u0QK9T/dkpUyfQZsNWFEwRYQYppw2qB29VyXMzCMbcAbs7IV/ap0RXqD7EoX3BXtgw1kDFqRqOJiDqw==",
+  "dgSpecHash": "/kB3eFRwY7ubnGgOrFcgtLL3EzmuIN2ZBwZg9sWA7GiQYeaxDC+VJybBuP0wLWYlQAKss7X3LCspqinc5sXuyA==",
   "success": true,
-  "projectFilePath": "D:\\ESLAM\\new Cource\\DatingApp.API\\DatingApp.API.csproj",
+  "projectFilePath": "D:\\ESLAM\\new Cource\\datingapp.api\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\cloudinarydotnet\\1.13.1\\cloudinarydotnet.1.13.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.7\\microsoft.aspnetcore.authentication.jwtbearer.3.1.7.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.7\\microsoft.aspnetcore.jsonpatch.3.1.7.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.7\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.7.nupkg.sha512",

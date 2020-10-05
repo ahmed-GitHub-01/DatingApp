@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESLAM\\new Cource\\DatingApp.API\\DatingApp.API.csproj": {}
+    "D:\\ESLAM\\new Cource\\datingapp.api\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "D:\\ESLAM\\new Cource\\DatingApp.API\\DatingApp.API.csproj": {
+    "D:\\ESLAM\\new Cource\\datingapp.api\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESLAM\\new Cource\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "D:\\ESLAM\\new Cource\\datingapp.api\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "D:\\ESLAM\\new Cource\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "D:\\ESLAM\\new Cource\\datingapp.api\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\ESLAM\\new Cource\\DatingApp.API\\obj\\",
+        "outputPath": "D:\\ESLAM\\new Cource\\datingapp.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.13.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

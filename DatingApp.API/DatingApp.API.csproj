@@ -5,6 +5,7 @@
     <UserSecretsId>150dsddwww111-15ddddwwflaiydfbhadj151-88998jfbahdbvaodblvlkavd989-665jabdvajdblvadv65-555lkzjduebfublevvd55</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.13.1" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.7" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
